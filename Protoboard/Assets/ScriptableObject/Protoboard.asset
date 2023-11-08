@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b92f9e1736f65440b32681a7fc72cc9, type: 3}
+  m_Name: Protoboard
+  m_EditorClassIdentifier: 
+  ItemName: Protoboard
+  ItemImage: {fileID: 21300000, guid: 0dd38685f847b174e945ebd5e7b3322b, type: 3}
+  ItemDescription: Protoboard
+  Item3DModel: {fileID: 2837833803535089651, guid: 5a452d8734df08243b1237ac655265dc, type: 3}
